@@ -4,7 +4,7 @@ name: Denismes
 description: Développement web et astuces pour débutants
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://crazyden.github.io/
+url: 
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
