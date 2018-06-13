@@ -4,7 +4,7 @@ name: Denismes
 description: Développement web et astuces pour débutants
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://localhost:4000
+url: https://crazyden.github.io/xixia
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -20,7 +20,7 @@ date_format:
 # Language
 lan: "fr" 
 
-paginate: 10
+paginate: 5
 
 highlighter: rouge
 markdown: kramdown
