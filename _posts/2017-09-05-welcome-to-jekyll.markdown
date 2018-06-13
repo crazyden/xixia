@@ -6,11 +6,10 @@ categories: Jekyll
 tags: Jekyll
 description: Un exemple simple de blog créé avec Jekyll et hébergé gratuitement sur GitHub.
 ---
-###Nous connaissons un peu nos classiques avec Docteur Jekyll et Mister Hide !
+Nous connaissons un peu nos classiques avec Docteur Jekyll et Mister Hide !
+Mais ce **Jekyll** n'a rien à voir avec le roman de *Robert Louis Stevenson*, il s'agit là d'un CMS statique Open Source.
 
-####Mais ce **Jekyll** n'a rien à voir avec le roman de *Robert Louis Stevenson*, il s'agit là d'un CMS statique Open Source.
-
-####Wikipédia nous précise :
+__Wikipédia nous précise :__
 "**Jekyll** est un générateur de site statique dévéloppé par `Tom Preston-Werner`, le fondateur de `Github`. C'est un logiciel libre (Open Source) écrit en langage `Ruby`. Il est considéré comme le générateur de `site statique` le plus populaire."
 
 Ok ! Un CMS c'est mais plutôt avec  To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
