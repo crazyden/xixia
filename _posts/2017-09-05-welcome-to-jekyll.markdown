@@ -7,6 +7,7 @@ tags: Jekyll
 description: Un exemple simple de blog créé avec Jekyll et hébergé gratuitement sur GitHub.
 ---
 ###Nous connaissons un peu nos classiques avec Docteur Jekyll et Mister Hide !
+
 ####Mais ce **Jekyll** n'a rien à voir avec le roman de *Robert Louis Stevenson*, il s'agit là d'un CMS statique Open Source.
 
 ####Wikipédia nous précise :
