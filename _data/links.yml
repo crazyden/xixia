@@ -1,0 +1,24 @@
+# Affiche les liens vers d'autres sites de notre choix ui apparaîtront dans la sidebar 
+
+- url: "https://jekyllrb.com/docs/home/"
+  title: "Jekyll"
+
+- url: "https://github.com/"
+  title: "GitHub"  
+  
+- url: "https://git-scm.com/"
+  title: "Git"  
+    
+- url: "https://desktop.github.com/"
+  title: "Git Desktop"
+
+
+
+
+
+
+#- url: "http://xixia.info"
+#  title: "Xixia"
+
+#- url: "https://github.com/zxixia/jekyll-xixia"
+#  title: "Jekyll-Xixia"  

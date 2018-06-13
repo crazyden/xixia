@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jekyll/2017/09/05/another-copy-of-the-reademe-of-jekyll.html</loc>
+<lastmod>2017-09-05T08:10:51+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/2017/09/05/welcome-to-jekyll.html</loc>
+<lastmod>2017-09-05T08:10:51+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/programmer/2017/09/15/ascii-art-and-text.html</loc>
+<lastmod>2017-09-15T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/other/2017/09/19/README.html</loc>
+<lastmod>2017-09-19T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archive.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/links.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags.html</loc>
+</url>
+</urlset>
